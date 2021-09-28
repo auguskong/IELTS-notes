@@ -11,6 +11,10 @@
 
 
 
+如何解决: 
+
+如要还是要靠自己造句
+
 整体的练习思路
 
 扩展主动词汇 
@@ -46,18 +50,23 @@ https://www.ieltspodcast.com/ielts-speaking/ielts-speaking-vocabulary
 
 ### 单音节
 
-* `th` 和 `s`  `z` 发音要区分开  `th` 必须要咬舌头
-* sheet / shit  shit舌头放在ping sheet 需要拱起来 位置比较靠上  
+* `th` 和 `s`  `z` 发音要区分开  `th` 必须要咬舌头 illusions 哪一些复数的s需要念成z呢？ 
+* sheet / shit  shit舌头放在ping sheet 需要拱起来 位置比较靠上   短的yi 舌头放平即可
 * 辅音的发音不够清楚 m n v usual
+  * v 和 w 需要区分  v需要上牙咬下嘴唇
+  * b / p 等爆破音需要重点强调 和中文里面的b / p需要区分
+  * love 短
 
 ### 多音节
+
+* gl / gr g不要完全发音
 
 ### 易错/易混词
 
 *  sheet / shit  beach / bitch
 *  bad / bed 
 
-### 
+
 
 ## 犯过的语法错误
 
@@ -95,23 +104,86 @@ https://www.ieltspodcast.com/ielts-speaking/ielts-speaking-vocabulary
 
 
 
+## 常用句型 
 
+
+
+表示个人的观点
+
+I find sth + adj. 
 
 
 
 ## 话题准备
 
 * Book
+
 * Lifestyle
+
+  * The way that you are living your life. 
+
+    clean my house / apartment
+
+    Become Pilot 
+
+    I loves the freedom 
+
+    
+
+    offers you an unusual and breathtaking view of the world. You soar effortlessly over high mountains and deep valleys. You really see the shape of the land. 
+
+    NCE-3-44. Speed and Comfort
+
+    
+
+    I dreamed about flying. but it wasn't until 2020 that I would actually 
+
+    
+
 * Art 
+
 * Movie
+
+  * Shrek
+
 * Work
-* Family
+
+* Music :musical_note: 
+
+  * Type: country / pop / chili music
+  * 形容音乐: uplifting / motivating / 
+  * Relax: 
+    * when I want to loosen up and enjoy myself, I will put on some of my favorite music, lie on my couch, close my eyes, and just do noting, take a breather. breather和breath 注意区分 breather是放松 breath是呼吸
+
 * Business
+
 * Change
+
 * Society
+
 * Celebrity
-* 
+
+* Hometown
+
+  * small towns: Living in a small town is less stressful / get some fresh air /  
+  * big cities: more things to do/ photography exhibition / 
+    * live concert / sports
+    * sports / music festival
+    * For example, Where I went to college which I can't do in my hometown
+  * 
+  * beach / water activities: beach party / concert , look for seashells / sunbathing / jet skiing
+  * My hometown is a costal city, have lots of seafood, and the oyster is large and famous. 
+  * The city spent a lot of money on the public transportation system
+  * school system / education system is so competitive, 
+  * The public parts of the city are very concentrated, things/buildings are close together
+  * The economy is flourishing / people's income are increasing / the city is growing rapidly
+
+* Childhood / Family
+
+  * Family: I have a happy family 
+  * Parent: caring/giving/attentive/strict  
+    * helicopter parent
+    * c
 
 
 
@@ -120,30 +192,6 @@ https://www.ieltspodcast.com/ielts-speaking/ielts-speaking-vocabulary
 * 相关词汇 / 短语
 * 单句
 * 观点
-
-
-
-### Lifestyle
-
-The way that you are living your life. 
-
-
-
-Become Pilot 
-
-I loves the freedom 
-
-
-
-offers you an unusual and breathtaking view of the world. You soar effortlessly over high mountains and deep valleys. You really see the shape of the land. 
-
-NCE-3-44. Speed and Comfort
-
-
-
-
-
-I dreamed about flying. but it wasn't until 2020 that I would actually 
 
 
 
@@ -171,7 +219,7 @@ get along with your coworkers
 
 
 
-### Family
+
 
 ### Business
 
